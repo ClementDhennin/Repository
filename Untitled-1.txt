@@ -1,0 +1,5 @@
+1/ On peut modifier le contexte d’un LLM local en lui fournissant des instructions, des données ou des documents
+supplémentaires dans le prompt, ou en modifiant directement des éléments dans ses paramètres.Donc tpus les paramètres 
+qui lui sont fourni (ancien message, ...)
+
+2/ Il suffit de téléverser les pdf depuis WebUI
